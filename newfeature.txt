@@ -1,0 +1,1 @@
+this is a new addition to test the merge between two branches: branch-1 and master
